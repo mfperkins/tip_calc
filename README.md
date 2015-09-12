@@ -4,4 +4,4 @@ I built my first Tip Calculator for CodePath. It's pretty basic, but hopefully i
 
 Animated gif also included
 
-http://i.imgur.com/UqikLfO.gif
+<a href="http://imgur.com/UqikLfO"><img src="http://i.imgur.com/UqikLfO.gif" title="source: imgur.com" /></a>
